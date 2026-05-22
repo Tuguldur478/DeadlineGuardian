@@ -83,4 +83,7 @@ npm run dev
 
 Open `http://localhost:5173` in your browser. Done.
 
+Demo Video link: 
+https://drive.google.com/file/d/1F-2QsrwVdaBi4_UNkv4b1DYU4bebkRCt/view?usp=sharing
+
 
