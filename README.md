@@ -19,7 +19,7 @@ Messages API.
 
 ## Project layout
 deadline-guardian/
-├── backend/                  Spring Boot (port 8090)
+├── backend/                  Spring Boot (port 8080)
 │   ├── pom.xml
 │   └── src/main/java/com/deadlineguardian/
 │       ├── DeadlineGuardianApplication.java
@@ -66,7 +66,7 @@ $env:ANTHROPIC_API_KEY="your-key-here"
 mvn spring-boot:run
 ```
 
-Backend runs at `http://localhost:8090`. A badge in the top-right of the UI
+Backend runs at `http://localhost:8080`. A badge in the top-right of the UI
 shows **AI LIVE** if the key was detected, or **MOCK** if not.
 
 
